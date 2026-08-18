@@ -1,0 +1,5 @@
+.env
+*.jks
+local.properties
+/build/
+/app/build/
